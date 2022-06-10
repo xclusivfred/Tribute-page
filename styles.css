@@ -1,0 +1,27 @@
+img {
+  display: block;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+body {
+  line-height: 2;
+}
+
+li {
+  padding-bottom: 5px;
+}
+
+h1,
+figcaption,
+.info,
+.subject-info {
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  margin: 0 30px;
+}
