@@ -3,7 +3,7 @@
 A fictional overview of the life history of a person
 
 
-# Objective:
+## Objective:
 
 To build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 
