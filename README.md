@@ -13,7 +13,7 @@ To build an app that is functionally similar to https://tribute-page.freecodeca
 
 • Text editor or IDE(eg, vs code, brackets, etc.)
 
-# Tech Stack
+## Tech Stack
 
 **Client:** HTML, CSS.
 
