@@ -25,7 +25,7 @@ To build an app that is functionally similar to https://tribute-page.freecodeca
 ![App Screenshot](https://i.postimg.cc/XNkhtvZM/288458889-3230160873897157-2871520038337343482-n.jpg)
 
 
-# Demo
+## Demo
 
 https://xclusivfred.github.io/Tribute-page/
 
