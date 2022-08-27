@@ -30,7 +30,7 @@ To build an app that is functionally similar to https://tribute-page.freecodeca
 https://xclusivfred.github.io/Tribute-page/
 
 
-# Authors
+## Authors
 
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
 
