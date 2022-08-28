@@ -35,7 +35,7 @@ https://xclusivfred.github.io/Tribute-page/
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
 
 
-# Acknowledgements
+## Acknowledgements
 
  - [Freecodecamp.org](https://freecodecamp.org/)
 
