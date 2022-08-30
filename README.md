@@ -40,7 +40,7 @@ https://xclusivfred.github.io/Tribute-page/
  - [Freecodecamp.org](https://freecodecamp.org/)
 
 #
-# Features
+## Features
 
 - Responsive
 
