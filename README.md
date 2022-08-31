@@ -45,7 +45,7 @@ https://xclusivfred.github.io/Tribute-page/
 - Responsive
 
 
-# 🛠 Skills
+## 🛠 Skills
 HTML, CSS.
 
 
